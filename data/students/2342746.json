@@ -1,0 +1,10 @@
+{
+    "id": 31,
+    "name": "Juan Toro",
+    "lat": 3.382788,
+    "lng": -76.527251,
+    "photo": "https://randomuser.me/api/portraits/men/39.jpg",
+    "likes": ["Jugar", "Ropa", "Cocinar"],
+    "dislikes": ["Calor", "Lunes"],
+    "socialMedia": "@juxntoro"
+}
